@@ -1,0 +1,29 @@
+header{
+   
+    color: white;
+    height: 100%;
+   
+}
+
+.container{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+ 
+    
+}
+
+.container img{
+    padding: 10px;
+    width: 24%;
+    height: 500px;
+    transition-property: width, height;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in;
+    
+}
+
+.button{
+    color: blanchedalmond;
+  
+}

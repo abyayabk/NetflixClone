@@ -1,7 +1,9 @@
+import { Carousel } from "../components/Carousel";
+
 function List() {
     return (
       <div>
-        this is list
+        <Carousel></Carousel>
       </div>
     );
   }
