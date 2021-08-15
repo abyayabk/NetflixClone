@@ -2,35 +2,35 @@
 
 export const CarouselData = [
     {
-        image: 'https://picsum.photos/seed/picsum/200/300',
+        image: 'https://i.pinimg.com/originals/e6/5c/05/e65c05a21f6ade22d29114d759e6dbce.jpg',
         title: 'movie 1'
     },
     {
-        image: 'https://picsum.photos/id/237/200/300',
+        image: 'https://i.pinimg.com/originals/f6/29/4a/f6294a64cb695e1804f4dbcdba4c9ea5.jpg',
         title: 'movie 2'
     },
     {
-        image: 'https://i.picsum.photos/id/101/2621/1747.jpg?hmac=cu15YGotS0gIYdBbR1he5NtBLZAAY6aIY5AbORRAngs',
+        image: 'https://steamuserimages-a.akamaihd.net/ugc/1695024609602329849/6DBE46DAA44E73F03B106C5E913797494E68EF50/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false',
         title: 'movie 3'
     },
     {
-        image: 'https://i.picsum.photos/id/1010/5184/3456.jpg?hmac=7SE0MNAloXpJXDxio2nvoshUx9roGIJ_5pZej6qdxXs',
+        image: 'https://i.pinimg.com/originals/3f/66/3a/3f663accab985ea3acda89a1d95527be.jpg',
         title: 'movie 4'
     },
     {
-        image: 'https://i.picsum.photos/id/1003/1181/1772.jpg?hmac=oN9fHMXiqe9Zq2RM6XT-RVZkojgPnECWwyEF1RvvTZk',
+        image: 'https://wallpapercave.com/wp/wp1861652.jpg',
         title: 'movie 4'
     },
     {
-        image: 'https://i.picsum.photos/id/1015/6000/4000.jpg?hmac=aHjb0fRa1t14DTIEBcoC12c5rAXOSwnVlaA5ujxPQ0I',
+        image: 'https://images.alphacoders.com/434/thumb-1920-434704.jpg',
         title: 'movie 4'
     },
     {
-        image: 'https://i.picsum.photos/id/1016/3844/2563.jpg?hmac=WEryKFRvTdeae2aUrY-DHscSmZuyYI9jd_-p94stBvc',
+        image: 'https://images8.alphacoders.com/543/thumb-1920-543961.jpg',
         title: 'movie 4'
     },
     {
-        image: 'https://grammartop.com/wp-content/uploads/2020/11/imagery-c5547e19bab9d1f1b82e4a71ea808fbec559fd7c.png',
+        image: 'https://c4.wallpaperflare.com/wallpaper/910/647/768/the-vampire-diaries-elena-gilbert-damon-salvatore-stefan-salvatore-wallpaper-preview.jpg',
         title: 'movie 4'
     }
 ]

@@ -1,4 +1,5 @@
-import { Carousel } from "../components/Carousel";
+import  Carousel from '../components/Carousel'
+
 
 function List() {
     return (

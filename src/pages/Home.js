@@ -11,7 +11,7 @@ function Home() {
       </div>
       <div style={{top:"-450px", position:'relative'}}>
           <h1 className='headings'>Trending Now</h1>
-          <Carousel></Carousel>
+          
         </div>
       
       </div>
