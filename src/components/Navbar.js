@@ -26,7 +26,7 @@ function Navbar() {
     return (
         <div className={scrolledValue ? "header1" : "header"}>
             <div className="logo">
-               <img className="pic" src={Img} />
+               <img className="pic" alt="logo" src={Img} />
             </div>
             <ul className='tryout'><Link to='/'><h1>Home</h1></Link></ul>
             <ul><Link to='/List'><h1>List</h1></Link></ul>
