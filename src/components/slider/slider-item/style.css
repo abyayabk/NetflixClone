@@ -1,0 +1,17 @@
+.slider-item {
+    padding: 0 10px 0 10px;
+    
+    height: 200px;   
+   
+}
+
+.slider-item:hover {
+  transform: scale(1.5);
+}
+     
+.a{
+      height: 100%;
+      width: 360px;
+      
+    }
+  

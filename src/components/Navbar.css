@@ -1,5 +1,4 @@
 
-
 .header{
     
     display: flex;
@@ -34,3 +33,13 @@ h1{
     z-index: 10;
     color: rgb(255, 255, 255);
 }
+
+.pic{
+    max-width: 100px;
+    
+}
+
+.logo{
+    margin-left: 50px;
+}
+  

@@ -1,7 +1,8 @@
-import style from './Navbar.module.css';
-
+import './Navbar.css';
+import Img from "./netflix.png"
 import { Link } from 'react-router-dom';
 import { useState } from 'react';
+
 
 function Navbar() {
 
@@ -23,9 +24,13 @@ function Navbar() {
     window.addEventListener('scroll', mero);
 
     return (
-        <div className={scrolledValue ? style.header1 : style.header}>
+        <div className={scrolledValue ? "header1" : "header"}>
+            <div className="logo">
+               <img className="pic" src={Img} />
+            </div>
             <ul className='tryout'><Link to='/'><h1>Home</h1></Link></ul>
             <ul><Link to='/List'><h1>List</h1></Link></ul>
+       
         </div>
     )
 }

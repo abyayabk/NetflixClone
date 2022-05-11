@@ -1,0 +1,32 @@
+.slider-content {
+    display: flex;
+    flex-direction: row; 
+    
+}
+
+.button{
+  position: absolute;
+  width: 2%;
+  z-index: 10;
+  height :200px;
+  color: rgb(255, 255, 255);
+  
+}
+
+.left{
+    left:0%
+}
+
+.right{
+    right: 0%;
+}
+
+
+
+
+.slider{
+    overflow: hidden; 
+    display: flex; 
+    flex-direction: column;
+}
+
